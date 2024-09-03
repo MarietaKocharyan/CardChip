@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.59f81ffa.css",
+    "main.js": "/static/js/main.d1e51633.js",
+    "static/js/453.68693753.chunk.js": "/static/js/453.68693753.chunk.js",
+    "static/media/FinLottiePlaceholder.svg": "/static/media/FinLottiePlaceholder.1a22009f16086de3c0130b5ce3b6b9c1.svg",
+    "static/media/JiraLogo.svg": "/static/media/JiraLogo.a10d0300c51ff9f6ea3436ae830c8c8a.svg",
+    "static/media/TrelloLogo.svg": "/static/media/TrelloLogo.52a4aec41573fd5519c12a3fda97a6c0.svg",
+    "static/media/AsanaLogo.svg": "/static/media/AsanaLogo.e7e982b5888185aa1babe4f55c80fdcd.svg",
+    "index.html": "/index.html",
+    "main.59f81ffa.css.map": "/static/css/main.59f81ffa.css.map",
+    "main.d1e51633.js.map": "/static/js/main.d1e51633.js.map",
+    "453.68693753.chunk.js.map": "/static/js/453.68693753.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59f81ffa.css",
+    "static/js/main.d1e51633.js"
+  ]
+}
